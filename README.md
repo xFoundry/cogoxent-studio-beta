@@ -1,4 +1,5 @@
 # AI Video Starter Kit
+## For xFoundry
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![fal.ai](https://img.shields.io/badge/fal.ai-latest-purple)](https://fal.ai)
