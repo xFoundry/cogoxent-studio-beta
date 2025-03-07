@@ -75,8 +75,16 @@ export const AVAILABLE_ENDPOINTS: ApiInfo[] = [
   },
   {
     endpointId: "fal-ai/kling-video/v1.5/pro",
-    label: "Kling 1.5 Pro",
+    label: "Kling 1.6 Pro",
     description: "High quality video",
+    cost: "",
+    category: "video",
+    inputAsset: ["image"],
+  },
+  {
+    endpointId: "fal-ai/wan-i2v",
+    label: "Kling 1.6 Pro",
+    description: "High quality video, wan 2.1",
     cost: "",
     category: "video",
     inputAsset: ["image"],

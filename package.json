@@ -58,7 +58,7 @@
     "zustand": "^5.0.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
+    "@biomejs/biome": "^1.9.4",
     "@remotion/cli": "^4.0.240",
     "@types/node": "^20",
     "@types/react": "^18",
